@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+canvas {
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 600px; 
+  margin: 0 auto; 
+  padding: 10px; 
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background: white; 
+}
