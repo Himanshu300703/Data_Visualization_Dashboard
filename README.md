@@ -1,4 +1,4 @@
-## Visulization Dashboard  
+## Data Visulization Dashboard  
 This project is a data visualization dashboard that uses a MongoDB database to store and retrieve data, and presents it through a modern and interactive frontend interface. The backend is built using Flask (Python) to handle API requests, and the frontend is developed using React.js with various charting libraries to dynamically visualize data from the database.
 
 ### Tech Stack
